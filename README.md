@@ -21,4 +21,4 @@ I'm a french developper/craftsman 💻 with years of field experience, currently
 
 As a citizen of the world I'm interested in the ecological impact of the digital world and try to do wat I can on this matter 🌱
 
-I have a [personnal website](http://raphael-lemaire.com/) here.
+I have a personnal website [here](http://raphael-lemaire.com/).
